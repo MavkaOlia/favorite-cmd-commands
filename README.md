@@ -2,14 +2,17 @@
 
 **GIT exercise for WEEK2**
 
-## cd ..
+## git clone <url> .
 
-will change the directory for upper level
+will clone the repository to the current folder
 
-## open .
+## git add .
 
-will open current directory
+will add changes into the current directory
 
-## mkdir <folder name>
+## git commit -m <"comment">
 
-will create new folder
+will add comments to the changes
+
+## git push 
+will send changes to my github 
